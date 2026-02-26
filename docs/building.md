@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Building & Running
+parent: Foundation
+nav_order: 2
 ---
 
 # Building & Running
 
-[Home](index)
 
 ## Prerequisites
 

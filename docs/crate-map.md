@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Crate Map
+parent: How It Works
+nav_order: 14
 ---
 
 # Crate Map
 
-[Home](index)
 
 ## Workspace Layout
 

@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Extreme Tests
+parent: Tools & Testing
+nav_order: 4
 ---
 
 # Extreme Tests
 
-[Home](index)
 
 ## What This Is
 

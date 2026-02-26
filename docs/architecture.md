@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Architecture
+parent: How It Works
+nav_order: 1
 ---
 
 # Architecture
 
-[Home](index)
 
 ## What NINE65 Is
 

@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Bootstrap System
+parent: How It Works
+nav_order: 8
 ---
 
 # Bootstrap System
 
-[Home](index)
 
 ## Why Bootstrap Exists
 

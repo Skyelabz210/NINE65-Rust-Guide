@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Rust Toolchain
+parent: Foundation
+nav_order: 4
 ---
 
 # Rust Toolchain
 
-[Home](index)
 
 ## What's Installed
 

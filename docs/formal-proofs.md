@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Formal Proofs
+nav_exclude: true
 ---
 
 # Formal Proofs

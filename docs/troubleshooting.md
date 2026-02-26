@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Troubleshooting
+parent: Reference
+nav_order: 2
 ---
 
 # Troubleshooting
 
-[Home](index)
 
 ## Build Errors
 

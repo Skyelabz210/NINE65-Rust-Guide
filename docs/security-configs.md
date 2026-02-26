@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Security Configs
+parent: Using the System
+nav_order: 3
 ---
 
 # Security Configurations
 
-[Home](index)
 
 ## The Three Production Configs
 

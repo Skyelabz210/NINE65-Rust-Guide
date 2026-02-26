@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Noise Budget
+parent: How It Works
+nav_order: 7
 ---
 
 # Noise Budget
 
-[Home](index)
 
 ## What Noise Is
 

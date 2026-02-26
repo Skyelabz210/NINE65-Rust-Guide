@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Testing
+parent: Tools & Testing
+nav_order: 1
 ---
 
 # Testing
 
-[Home](index)
 
 ## Test Commands
 

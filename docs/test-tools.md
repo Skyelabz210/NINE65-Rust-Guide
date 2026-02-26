@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Test Tools
+parent: Tools & Testing
+nav_order: 3
 ---
 
 # Test Tools
 
-[Home](index)
 
 Beyond the built-in `cargo test`, these tools give deeper visibility into test runs.
 

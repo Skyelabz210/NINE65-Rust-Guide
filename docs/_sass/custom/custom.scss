@@ -1,0 +1,62 @@
+// NINE65 Rust Guide — Dark theme overrides for just-the-docs
+
+// Cheatsheet styling
+.cheatsheet {
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+
+  h3 {
+    color: #58a6ff;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin: 1rem 0 0.25rem 0;
+    padding: 0;
+    border: none;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  code {
+    font-size: 0.85rem;
+  }
+
+  pre {
+    margin: 0.25rem 0 0.5rem 0;
+    padding: 0.5rem;
+    background-color: #0d1117;
+    border: 1px solid #21262d;
+  }
+}
+
+// "Where to go next" footer styling
+.next-links {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #30363d;
+  font-size: 0.9rem;
+
+  strong {
+    color: #58a6ff;
+  }
+}
+
+// Section landing page styling
+.section-overview {
+  .section-link {
+    display: block;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #21262d;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}
