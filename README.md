@@ -54,3 +54,12 @@ Live at: https://skyelabz210.github.io/NINE65-Rust-Guide/
 ### Reference
 - [Error Reference](docs/error-reference.md) — Every Nine65Error variant explained
 - [Troubleshooting](docs/troubleshooting.md) — Common errors and fixes
+
+## Proofs Section
+
+This section contains all formal proofs and mathematical validations for the NINE65 system. Proofs are sourced from various repositories including k-elimination-lean4 and QMNF_System.
+
+### Core Proofs
+- [K-Elimination (Lean 4)](https://github.com/Skyelabz210/k-elimination-lean4)
+- [QMNF Residue Arithmetic (Coq/Lean)](https://github.com/Skyelabz210/QMNF_System/tree/main/proofs)
+
